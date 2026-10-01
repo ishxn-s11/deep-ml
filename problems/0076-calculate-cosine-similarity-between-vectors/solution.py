@@ -25,4 +25,5 @@ def cosine_similarity(v1, v2):
 	sim=np.dot(v1,v2)/(v1_norm*v2_norm)
 
 	return float(sim) 
+	
 	pass
