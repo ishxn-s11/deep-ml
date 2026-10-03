@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:34:09.995Z",
+  "generated_at": "2026-10-03T12:51:32.695Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -109,6 +109,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-10-03T12:34:11.287Z",
       "last_pushed_at": "2026-10-03T12:34:11.287Z"
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-03T12:51:33.332Z",
+      "last_pushed_at": "2026-10-03T12:51:33.332Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
