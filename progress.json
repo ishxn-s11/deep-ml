@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:30:30.279Z",
+  "generated_at": "2026-10-19T14:37:27.000Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -357,6 +357,19 @@
       "last_pushed_at": "2026-10-19T10:30:30.716Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-10-19T14:37:18.028Z",
+      "last_pushed_at": "2026-10-19T14:37:18.028Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
