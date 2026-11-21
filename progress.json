@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:50:21.640Z",
+  "generated_at": "2026-11-21T22:52:19.249Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -781,9 +781,9 @@
       "url": "https://www.deep-ml.com/problems/1072",
       "path": "problems/1072-pairwise-cosine-similarity-matrix",
       "first_solved_at": "2026-11-21T22:50:20.911Z",
-      "last_pushed_at": "2026-11-21T22:50:20.911Z",
+      "last_pushed_at": "2026-11-21T22:52:18.582Z",
       "language": "python",
-      "lines": 24
+      "lines": 13
     }
   }
 }
