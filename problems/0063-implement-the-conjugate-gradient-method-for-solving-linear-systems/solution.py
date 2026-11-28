@@ -18,6 +18,7 @@ def conjugate_gradient(A, b, n, x0=None, tol=1e-8):
         x=np.zeros_like(b,dtype=float)
     else:
         x=np.array(x0,dtype=float)
+
     r=b-A @ x
     p=r.copy()
     rs_old=np.dot(r,r)
